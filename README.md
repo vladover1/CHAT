@@ -3,4 +3,4 @@
 be only in one room at the same time.
 - `/rooms` - show list of avaible rooms to join.
 - `/msg <msg>` - broadcast message to everyone in a room.
-- `/quit` - disconnects from the chat server. 
+- `/quit` - disconnects from the chat server. # CHAT
